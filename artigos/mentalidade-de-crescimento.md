@@ -26,6 +26,6 @@ O primeiro passo para ocuparmos uma posição ativa diante das nossas escolhas e
 
 Em seguida, já é possível caminharmos em direção à mudança desejada, embora esse processo possa ser doloroso no começo, já que devemos deixar nossa zona de conforto. Por isso, é bastante importante manter sempre a mente aberta, refletir e questionar os comportamentos e atitutes que estão engatilhados pela mentalidade com a qual estamos enxergando as situações da vida. Saber ouvir, refletir e mudar nossa mentalidade pode ser essencial para crescer. Um outro ponto relevante nesse sentido é abandonar a ideia de sucesso como um ponto fixo e estável de onde olhamos de forma inabalável. O sucesso está muito mais conectado com os caminhos que percorremos durante a vida.
 
-### Referências
+## Referências
 
 As anotações acima foram todas feitas com base no curso [Mentalidade de crescimento: Potencializando sua carreira](https://cursos.alura.com.br/course/mentalidade-crescimento-potencializando-carreira) da psicóloga Simone Schaan.
