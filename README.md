@@ -6,6 +6,7 @@ Repositório de anotações sobre diferentes soft skills cultivadas durante o pr
 
 1. [Mentalidade de Crescimento](artigos/mentalidade-de-crescimento.md)
 2. [Comunicação: como se expressar bem e ser compreendido](artigos/comunicacao_como_se_expressar_bem.md)
+3. [Hábitos: da produtividade às metas pessoais](/artigos/habitos.md)
 
 ## Feedbacks e Sugestões
 
